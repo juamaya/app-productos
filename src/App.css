@@ -31,6 +31,22 @@ p{
   color: white;
   font: 1em sans-serif;
 }
+
+.btn-scroll{
+  background-color: blue;
+  padding: 10px;
+  font-size: 2rem;
+  border-radius:10px ;
+  cursor: pointer;
+ 
+}
+ 
+ 
+.btn-scroll:hover{
+  background-color: rgb(5, 5, 55);
+
+}
+
 .footer {
   text-align: center;
   font-size: 1.5rem ;
